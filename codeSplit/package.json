@@ -1,0 +1,19 @@
+{
+  "name": "codesplit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.0.0-beta.39",
+    "css-loader": "^0.28.9",
+    "style-loader": "^0.20.1"
+  },
+  "dependencies": {
+    "jsonp": "^0.2.1"
+  }
+}
