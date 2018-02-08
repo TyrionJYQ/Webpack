@@ -1,0 +1,16 @@
+{
+  "name": "css-in-webpack",
+  "version": "1.0.0",
+  "description": "code for css in webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TyrionJYQ",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.28.9",
+    "file-loader": "^1.1.6",
+    "style-loader": "^0.20.1"
+  }
+}
