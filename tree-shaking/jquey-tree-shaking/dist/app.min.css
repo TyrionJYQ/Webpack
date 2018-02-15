@@ -1,0 +1,16 @@
+* {
+  color: white;
+}
+html {
+  font-size:   24px;
+  background: gray;
+}
+.trans {
+  -webkit-transition: -webkit-transform 1s;
+  transition: -webkit-transform 1s;
+  transition: transform 1s;
+  transition: transform 1s, -webkit-transform 1s
+}
+.box {
+  background-color: red
+}
