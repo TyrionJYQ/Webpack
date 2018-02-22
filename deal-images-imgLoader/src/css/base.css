@@ -1,0 +1,18 @@
+li {
+  width: 200px;
+  height: 200px;
+  float: left
+
+}
+.bg1 {
+  background: url(../assests/imgs/01.png)
+}
+.bg2 {
+  background: url(../assests/imgs/02.png)
+}
+.bg3 {
+  background: url(../assests/imgs/03.png)
+}
+.bg4 {
+  background: url(../assests/imgs/04.png)
+}

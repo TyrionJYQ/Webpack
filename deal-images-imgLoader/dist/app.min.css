@@ -1,0 +1,21 @@
+li {
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+
+.bg1 {
+  background: url(./dist/../assests/imgs/48d61e827ddc33ef045213346ad0d29e.png);
+}
+
+.bg2 {
+  background: url(./dist/../assests/imgs/6aa67dac67d9a1694b4fdfc5b6cc503d.png);
+}
+
+.bg3 {
+  background: url(./dist/../assests/imgs/801185cc25213d8020db8d10b24ba359.png);
+}
+
+.bg4 {
+  background: url(./dist/../assests/imgs/cf4e487fbb4abf62ba0873c76973aee2.png);
+}
